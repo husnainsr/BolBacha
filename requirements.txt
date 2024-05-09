@@ -1,0 +1,8 @@
+chroma
+chromadb
+langchain
+pypdf
+pytest
+boto3
+sentence_transformers
+streamlit
