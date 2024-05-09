@@ -1,4 +1,4 @@
-![Banner](assests\logo2.jpeg)
+![Banner](assests/logo2.jpeg)
 
 
 # BolBacha ChatBot 🤖
@@ -9,7 +9,7 @@ BolBacha is an AI-powered chatbot built on the concept of Retrieval-Augmented Ge
 
 RAG is a novel approach to conversational AI that combines the benefits of information retrieval with the flexibility of generative models. It allows the chatbot to retrieve relevant information from a large knowledge base and generate responses based on retrieved information.
 
-![screenshot](assests\ragFlowChart.png)
+![screenshot](assests/ragFlowChart.png)
 
 ## Setting Up the Virtual Environment 🛠️
 
@@ -45,8 +45,8 @@ This will start a local server hosting the BolBacha frontend interface. You can 
 
 ## Frontend 🙌
 
-![screenshot](assests\frontend1.png)
-![screenshot](assests\example.png)
-![screenshot](assests\example2.png)
+![screenshot](assests/frontend1.png)
+![screenshot](assestse/xample.png)
+![screenshot](assests/example2.png)
 
 
