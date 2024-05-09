@@ -46,7 +46,7 @@ This will start a local server hosting the BolBacha frontend interface. You can 
 ## Frontend 🙌
 
 ![screenshot](assests/frontend1.png)
-![screenshot](assestse/xample.png)
+![screenshot](assestse/example.png)
 ![screenshot](assests/example2.png)
 
 
